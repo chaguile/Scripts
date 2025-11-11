@@ -1,5 +1,7 @@
 # Scripts
 
+## Remover-Extensiones.ps1
+
 This script is provided under the MIT License, with free rights to use, copy, modify, and distribute it, as long as the original copyright and permission notice are included in any copies or substantial portions of the script.
 
 This tool is intended only for the purpose of locating and deleting files and folders on systems where you have full authorization to do so. By running this script, you confirm that:
